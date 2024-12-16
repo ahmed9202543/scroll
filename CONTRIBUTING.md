@@ -1,6 +1,6 @@
 ## Contributing
 
-[fork]: /fork
+[fork]: https://github.com/scroll-tech/scroll/fork
 [pr]: /compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
